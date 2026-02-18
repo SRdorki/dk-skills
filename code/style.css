@@ -37,6 +37,8 @@ header h1 {
     font-size: 1.5em;
     text-align: center;
     margin-bottom: 20px;
+    letter-spacing: 2px;
+    text-shadow: 0px 0px 20px white;
 }
 
 header p {
@@ -76,6 +78,10 @@ header p {
     color: #0015FF;
     transition: all ease-in-out .5s;
     text-shadow: 0px 2px 9px #0015FF;
+}
+
+.icon-css3:hover {
+    transition: all .3s ease;
 }
 
 .icon-html5:hover {
@@ -128,6 +134,15 @@ header p {
     background: #1e1e1e;
     padding: 16px 20px 16px 20px;
     border-radius: 9px;
+}
+
+.redes a {
+    transition: all .3s ease;
+}
+
+.redes a:hover {
+    transform: translatey(-3px);
+    background: #2a2a2a;
 }
 
 /* 1.música */

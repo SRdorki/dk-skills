@@ -130,7 +130,6 @@ header p {
     box-shadow: 0px 0px 20px green;
 }
 
-
 .redes a {
     font-family: "Roboto", sans-serif;
     font-optical-sizing: auto;
@@ -146,7 +145,7 @@ header p {
     border-radius: 9px;
 }
 
-.redes a {
+.redes a{
     transition: all .3s ease;
 }
 

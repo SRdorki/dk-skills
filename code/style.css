@@ -109,6 +109,15 @@ header p {
 
 /* 1. redes sociais */
 
+.redes {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    width: 100vh;
+    max-width: 320px;
+}
+
 .redes .icon-github{
     background: #1e1e1e;
 }
@@ -119,12 +128,6 @@ header p {
     scale: calc(120%);
 }
 
-.redes {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    gap: 10px;
-}
 
 .redes a {
     font-family: "Roboto", sans-serif;

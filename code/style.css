@@ -74,6 +74,11 @@ header p {
     color: white;
 }
 
+.skill span {
+    transition: all .3s ease;
+}
+
+
 .icon-css3:hover {
     color: #0015FF;
     transition: all ease-in-out .5s;

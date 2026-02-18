@@ -120,12 +120,14 @@ header p {
 
 .redes .icon-github{
     background: #1e1e1e;
+    box-shadow: 0px 0px 20px #2a2a2a;
 }
 
 .redes a.icon-github:hover{
     background: green;
     transition: all ease-in .5s;
     scale: calc(120%);
+    box-shadow: 0px 0px 20px green;
 }
 
 
